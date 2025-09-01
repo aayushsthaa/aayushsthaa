@@ -1,6 +1,8 @@
 ### Hi there 👋, My name is Aayush
 #### I am a Student
-![I am a Student]([https://github.com/aayushsthaa/aayushsthaa/blob/1934a96594ffd1dbf206d5edd9b2613a673bd8d8/Aayush%20Shrestha.png](https://github.com/aayushsthaa/aayushsthaa/blob/2b0efbced3e99cad058b13c442503461ae2b7d7a/Aayush%20Shrestha.png))
+![I am a Student]([https://raw.githubusercontent.com/aayushsthaa/aayushsthaa/1934a96594ffd1dbf206d5edd9b2613a673bd8d8/Aayush%20Shrestha.png
+](https://raw.githubusercontent.com/aayushsthaa/aayushsthaa/1934a96594ffd1dbf206d5edd9b2613a673bd8d8/Aayush%20Shrestha.png
+))
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
