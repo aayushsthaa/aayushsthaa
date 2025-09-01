@@ -1,48 +1,16 @@
-# 🎯 Project Title
+### Hi there 👋, My name is Aayush
+#### I am a Student
+![I am a Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-> A one-line professional description of your project.  
-> Example: *An AI-powered web application with an integrated chat interface and VS Code-style live preview.*
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
----
+Skills: PHP / REACT / JS / HTML / CSS / JAVA / PYTHON 
 
-## 📌 Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
----
 
-## 📖 About
-This project is designed to provide a seamless experience by combining modern UI/UX principles with efficient backend logic.  
-It is lightweight, scalable, and can be easily deployed on **cPanel hosting** or local environments.  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aayushsthaa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aayushshrestha10/)  
 
----
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-## ✨ Features
-- ⚡ Fast and responsive user interface  
-- 💬 AI chat system (left panel)  
-- 📝 VS Code-style code editor with live preview (right panel)  
-- 🎵 Playlist and queue system for audio (if included)  
-- 📱 Mobile-friendly design  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushsthaa)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-## 🛠 Tech Stack
-- **Frontend:** React, TailwindCSS, ShadCN/UI  
-- **Backend:** PHP (Composer support for cPanel hosting)  
-- **Database:** MySQL / MongoDB (optional)  
-- **Other Tools:** Node.js, Git, Pygame (if applicable)  
-
----
-
-## 🚀 Installation
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
